@@ -1,6 +1,5 @@
 # helloworld
-
-A new Flutter project.
+An app that shows "HelloWorld" in the center of the screen"
 
 ## Getting Started
 
